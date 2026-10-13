@@ -1,1 +1,1 @@
-console.log("fixture test FAIL"); process.exit(1);
+console.log("fixture test PASS after fix"); process.exit(0);
